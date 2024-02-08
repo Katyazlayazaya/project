@@ -6,3 +6,5 @@ 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
 
 third commit
 fourth commit
+
+изменения во внешнем репозитории для проверки в локальном

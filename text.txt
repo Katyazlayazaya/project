@@ -1,2 +1,5 @@
 изменения в новом документе текст.тхт
+адрес репозитория 
+https://github.com/Katyazlayazaya/project.git
+токен
 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

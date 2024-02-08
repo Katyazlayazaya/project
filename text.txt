@@ -8,3 +8,6 @@ third commit
 fourth commit
 
 изменения во внешнем репозитории для проверки в локальном
+
+
+еще одно изменение для теста git pull origin master

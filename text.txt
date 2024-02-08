@@ -11,3 +11,5 @@ fourth commit
 
 
 еще одно изменение для теста git pull origin master
+
+тест для команды pull

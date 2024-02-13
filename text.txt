@@ -1,15 +1,1 @@
-изменения в новом документе текст.тхт
-адрес репозитория 
-https://github.com/Katyazlayazaya/project.git
-токен
-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
 
-third commit
-fourth commit
-
-изменения во внешнем репозитории для проверки в локальном
-
-
-еще одно изменение для теста git pull origin master
-
-тест для команды pull
